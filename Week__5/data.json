@@ -1,0 +1,44 @@
+{
+  "People": [
+    {
+      "Name": "John",
+      "Age": 130,
+      "OwnedCars": [
+        {
+          "Brand": "Mustang",
+          "Year": 1969,
+          "FuelType": "Petrol",
+          "Weight": 1200
+        }
+      ],
+      "PurchasedProducts": [
+        {
+          "Name": "Laptop",
+          "Price": 1200.00,
+          "Currency": "USD",
+          "Discount": 0.10
+        }
+      ]
+    },
+    {
+      "Name": "Domeniko",
+      "Age": 23,
+      "OwnedCars": [
+        {
+          "Brand": "Benz Patent-Motorwagen",
+          "Year": 1885,
+          "FuelType": "Petrol",
+          "Weight": 200
+        }
+      ],
+      "PurchasedProducts": [
+        {
+          "Name": "Wheel",
+          "Price": -200.00,
+          "CurrencyType": "GEL",
+          "Discount": 0.60
+        }
+      ]
+    }
+  ]
+}
